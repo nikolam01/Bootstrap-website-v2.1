@@ -324,6 +324,7 @@ footer{
 		.navbar-nav li a{
 			font-size: 30px !important;
 			margin-right: 2vh !important;
+			text-align: right !important;
 		
 			
 		}
@@ -353,13 +354,16 @@ footer{
 #image1{
     float: center !important;
     width: 100% !important;
-    margin-top: 0% !important;
+	margin-top: 0% !important;
+	margin-bottom: 5% !important;
+
    
 }
 #image2{
     float: center !important;
     width: 60% !important;
-    margin: 2% 20% !important;
+	margin: 2% 20% !important;
+	display: none;
    
 }
 .fa-bars{
@@ -389,6 +393,7 @@ h2{
 .navbar-nav li a{
     font-size: 20px !important;
 	margin-right: 1vh !important;
+	text-align: right !important;
 
     
 }

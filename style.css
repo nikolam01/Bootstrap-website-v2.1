@@ -27,7 +27,7 @@ body{
 .text{
     font-size:3vh;
     color: white;
-	padding-top: 10%;
+	padding-top: 13%;
 	text-align: justify;
 }
 #title2{
@@ -343,6 +343,7 @@ footer{
 		.navbar-nav li a{
 			font-size: 30px !important;
 			margin-right: 1vh !important;
+			text-align: right !important;
 		
 			
 		}
@@ -401,6 +402,7 @@ h2{
 .navbar-nav li a{
     font-size: 20px !important;
 	margin-right: 1vh !important;
+	text-align: right !important;
 
     
 }

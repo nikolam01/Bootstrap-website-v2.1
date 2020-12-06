@@ -221,6 +221,17 @@ footer{
 	.text{
 		font-size: 2.5vh !important;
 	}
+	.box-area {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 80%;
+		overflow: hidden;
+		z-index: -1;
+		
+	}
+
 	}
 	/*----------------max 992px------------------------------------------*/
 @media (max-width: 992px) {
@@ -312,6 +323,7 @@ footer{
 		}
 		.navbar li a{
 			margin-right: 1vh !important;
+			text-align: right !important;
 		}
 		h2{
 			font-size: 4vh !important;
@@ -329,7 +341,17 @@ footer{
 			
 		}
 		ul{
-			list-style: none;
+			list-style: inside;
+		}
+		.box-area {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 105%;
+			overflow: hidden;
+			z-index: -1;
+			
 		}
 		
 		 
@@ -389,6 +411,7 @@ h2{
 .navbar-nav li a{
     font-size: 20px !important;
 	margin-right: 1vh !important;
+	text-align: right !important;
 
     
 }
@@ -401,7 +424,7 @@ ul{
 	top: 0;
 	left: 0;
 	width: 100%;
-	height: 200%;
+	height: 175%;
     overflow: hidden;
     z-index: -1;
     
