@@ -27,7 +27,8 @@ body{
 	margin-top:2%;
     border:5px solid  #061161 ;
     float:right;
-    margin-bottom: 2%;
+	margin-bottom: 2%;
+	margin-top: 6%;
 
 }
 .text{
@@ -301,7 +302,9 @@ footer{
         }
         #image2{
             float: right !important;
-            width: 100% !important;
+			width: 100% !important;
+			margin-bottom: 5%;
+			margin-top: 6%;
            
         }
 		.navbar-brand img{
@@ -381,7 +384,9 @@ footer{
 }
 #image2{
     float: center !important;
-    width: 100% !important;
+	width: 100% !important;
+	margin-bottom: 8% !important;
+	margin-top: 2% !important;
    
 }
 .fa-bars{
