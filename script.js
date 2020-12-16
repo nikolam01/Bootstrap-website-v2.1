@@ -1,4 +1,12 @@
-function helloThere(){
-    console.log('This is my personal website that is made by using HTML5 and Bootstrap technologies. If you are good with JS contact me!')
+const p = document.querySelector('.text');
+function popupf (){
+alert('This alert message is written in JS!')
 }
-helloThere();
+alertfunction = () => {
+p.addEventListener('click', popupf);
+  }
+alertfunction();
+const h = document.querySelector('h1');
+hello = () =>{
+    console.log(h,p);
+}
