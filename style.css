@@ -195,7 +195,26 @@ footer{
 #input-form{
 	width: 40%;
 	margin: 0.5% 30%;
+	margin-right: 0% !important;
 	text-align: left;
+	color: black;
+	font-weight: 550;
+}
+#submit{
+	width: 8%;
+	margin-left: 1% !important;
+	float: center;
+	margin-top: 0.5%;
+	text-align: center !important;
+	color: black;
+	font-weight: 600;
+
+	
+	
+}
+.form{
+	display: flex;
+	
 }
 @keyframes animate {
 	0% {
@@ -433,6 +452,26 @@ h2{
     overflow: hidden;
     z-index: -1;
     
+}
+#input-form{
+	width: 78%;
+	margin: 0.5% 1% !important;
+	margin-right: 0% !important;
+	text-align: left;
+}
+#submit{
+	width: 20%;
+	margin-left: 1% !important;
+	text-align: center;
+	margin-top: 0.5%;
+
+	
+	
+}
+.form{
+	display: flex;
+	justify-content: center;
+	
 }
 
   
