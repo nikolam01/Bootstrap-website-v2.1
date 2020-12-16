@@ -107,6 +107,31 @@ footer{
 .fa-linkedin{
 	font-size: 3vh !important;
 }
+#input-form{
+	width: 50%;
+	margin: 0.5% 28%;
+	margin-right: 0% !important;
+	text-align: left;
+	color: black;
+	font-weight: 480;
+}
+#submit{
+	width: 8%;
+	margin-left: 1% !important;
+	margin-right: 22%;
+	float: center;
+	margin-top: 0.5%;
+	text-align: center !important;
+	color: black;
+	font-weight: 600;
+
+	
+	
+}
+.form{
+	display: flex;
+	
+}
   /*end of footer */
 
 /*animation section*/
@@ -411,6 +436,30 @@ ul{
     z-index: -1;
     
 }
+#input-form{
+	width: 78%;
+	margin: 0.5% 1% !important;
+	margin-right: 0% !important;
+	text-align: left;
+}
+#submit{
+	width: 19%;
+	margin-left: 1% !important;
+	padding-left: 0px;
+	margin-right: 0%;
+	padding-right: 0px;
+	text-align: center;
+	margin-top: 0.5%;
+
+	
+	
+}
+.form{
+	display: flex;
+	justify-content: center;
+	
+}
+
 
 
  }

@@ -193,8 +193,8 @@ footer{
 }
 
 #input-form{
-	width: 40%;
-	margin: 0.5% 30%;
+	width: 50%;
+	margin: 0.5% 20%;
 	margin-right: 0% !important;
 	text-align: left;
 	color: black;
@@ -460,8 +460,10 @@ h2{
 	text-align: left;
 }
 #submit{
-	width: 18%;
+	width: 19%;
 	margin-left: 1% !important;
+	padding-left: 0px;
+	padding-right: 0px;
 	text-align: center;
 	margin-top: 0.5%;
 

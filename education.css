@@ -78,6 +78,30 @@ body{
 footer{
 	margin-top: 5%;
 }
+#input-form{
+	width: 50%;
+	margin: 0.5% 20%;
+	margin-right: 0% !important;
+	text-align: left;
+	color: black;
+	font-weight: 480;
+}
+#submit{
+	width: 8%;
+	margin-left: 1% !important;
+	float: center;
+	margin-top: 0.5%;
+	text-align: center !important;
+	color: black;
+	font-weight: 600;
+
+	
+	
+}
+.form{
+	display: flex;
+	
+}
 
 /*footer*/
 .fa {
@@ -406,6 +430,30 @@ ul{
     z-index: -1;
     
 }
+#input-form{
+	width: 78%;
+	margin-right: 0% !important;
+	margin-left: 0% !important;
+	text-align: left;
+}
+#submit{
+	width: 19%;
+	margin-left: 1% !important;
+	margin-right: 1%;
+	padding-left: 0px;
+	padding-right: 0px;
+	text-align: center;
+	margin-top: 0.5%;
+
+	
+	
+}
+.form{
+	display: flex;
+	justify-content: center;
+	
+}
+
 
 
  }
