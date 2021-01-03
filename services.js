@@ -1,5 +1,5 @@
-const button = document.querySelector('.button');
+const buttons = document.querySelector('.buttons');
 
-button.addEventListener('click', function () {
-    alert('Thank you for downloading! Be free to sent me feedback on my e-mail.')
+buttons.addEventListener('click', function () {
+    alert('Thank you for downloading! Be free to sent me feedback on my e-mail.');
 })
