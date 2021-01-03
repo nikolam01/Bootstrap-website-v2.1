@@ -78,20 +78,10 @@ body{
 .btn-primary{
     padding: 5px 5px !important;
     font-size: 4vh !important;
-    background-color: transparent !important;
-    border: 4px solid white !important;
-	font-weight: 500 !important;
+	font-weight: 400 !important;
 	margin-top: 0.5% !important;
-	
-
-   
-	
 }
-.btn-primary:hover{
-    background-color:  #780206 !important;
-    transition: all 10ms ease-in !important;
 
-}
 #buttons{
 display: flex;
 justify-content: center;
@@ -101,7 +91,6 @@ margin: 3%;
 #question-form{
 	margin-top: 5%;
 	margin-bottom: 2%;
-	margin-right: 0% !important;
 	text-align: left;
 	color: black;
 	font-weight: 480;
@@ -111,7 +100,6 @@ margin: 3%;
 
 #submit1{
 	
-	margin-left: 0% !important;
 	float: center;
 	margin-top: 5%;
 	text-align: center !important;
@@ -126,13 +114,14 @@ margin: 3%;
 }
 .questions{
 	display: flex;
-	width: 80%;
-	margin: 0% 10%;
+	justify-content: center;
+	width: 90%;
+	margin: 0% 5%;
 	height: 20%;
 	font-size: 24px;
 }
 footer{
-	margin-top: 5%;
+	margin-top: 3%;
 }
 
 /*footer*/

@@ -1,5 +1,5 @@
-const submit = document.querySelector('#submit1');
+const button = document.querySelector('.button');
 
-submit.addEventListener('click', function () {
-    alert('Thank you for question.');
+button.addEventListener('click', function () {
+    alert('Thank you for downloading! Be free to sent me feedback on my e-mail.')
 })
