@@ -30,6 +30,9 @@ body{
     margin-bottom: 2%;
 
 }
+.navbar{
+	background-color: black;
+}
 .text{
     font-size:3vh;
     color: white;
@@ -371,9 +374,9 @@ footer{
 	padding-top: 4%;
 }
 .navbar-brand img{
-	padding-left: 5%;
+	padding-left: 10%;
 	float: left;
-	height: 40px;
+	height: 45px;
 	
 }
 #image1{

@@ -44,6 +44,9 @@ body{
     float: center !important;
 
 }
+.navbar{
+	background-color: black;
+}
 #video{
     margin-top: 5%;
 }
@@ -417,9 +420,9 @@ footer{
 	padding-top: 4%;
 }
 .navbar-brand img{
-	padding-left: 5%;
+	padding-left: 10%;
 	float: left;
-	height: 40px;
+	height: 45px;
 	
 }
 .navbar li a{

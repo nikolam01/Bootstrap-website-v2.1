@@ -70,6 +70,7 @@ body{
     color: #fff;
 	font-size: 70px !important;
 	outline: none !important;
+	border: none !important;
 }
 footer{
 	margin-top: 5%;
@@ -395,9 +396,9 @@ footer{
 	padding-top: 4%;
 }
 .navbar-brand img{
-	padding-left: 5%;
+	padding-left: 10%;
 	float: left;
-	height: 40px;
+	height: 45px;
 	
 }
 .fa-bars{
@@ -405,6 +406,7 @@ footer{
 	padding: 0% !important;
 	text-align: center !important;
 	margin-right: 0vh !important;
+	
 }
 .text{
 	text-align: justify;
@@ -423,6 +425,7 @@ h2{
 	margin: 0% 10% !important;
 	font-size: 3.5vh !important;
 	border: 2px solid white !important;
+	
 	
 }
 

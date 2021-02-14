@@ -22,6 +22,9 @@ body{
     float: left;
 
 }
+.navbar{
+	background-color: black !important;
+}
 #image2{
     width: 100% !important;
 	margin-top:2%;
@@ -370,9 +373,9 @@ footer{
 	padding-top: 4%;
 }
 .navbar-brand img{
-	padding-left: 5%;
+	padding-left: 10%;
 	float: left;
-	height: 40px;
+	height: 45px;
 	
 }
 #image1{
