@@ -4,7 +4,7 @@
     padding: 0px;
 }
 body{
-     background-image: linear-gradient( 109.6deg, #780206, #061161);
+     background-image: linear-gradient( 109.6deg,#780206, #061161);
      background-size: cover;
 	 background-position: center center;
 	 width: 100%;
@@ -15,12 +15,15 @@ body{
     text-align: center;
     padding-top: 2%;
 }
+.navbar{
+	background-color: black;
+}
 #image1{
 	height: 50vh;
 	width: auto;
 	float: right!important;
 	margin-top:10%;
-	border:5px solid  #061161 ;
+	border:5px solid  #1c0374 ;
 
 }
 
@@ -87,14 +90,12 @@ footer{
 	margin-left: 30% !important;
 	margin-right: 30% !important;
 	margin-top: 0.5% !important;
-	
+	border-radius: 40%;
 
-   
-	
 }
 .btn-primary:hover{
     background-color:  #780206 !important;
-    transition: all 10ms ease-in !important;
+    transition: all 1ms ease-in !important;
 
 }
 /*footer*/
@@ -139,7 +140,7 @@ footer{
 	left: 0;
 	width: 100%;
 	height: 180%;
-    overflow: hidden;
+    overflow:hidden;
     z-index: -1;
     
 }
@@ -183,7 +184,7 @@ footer{
 	left: 65%;
 	width: 40px;
 	height: 40px;
-	animation-delay: 0s;
+	animation-delay: 1s;
 }
 .box-area li:nth-child(6) {
 	left: 15%;
