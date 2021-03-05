@@ -26,7 +26,15 @@ body{
 	border:5px solid  #1c0374 ;
 
 }
-
+/*.sticky {
+	position: fixed !important;
+	top: 0 !important;
+	width: 100% !important;
+  }
+  .sticky + .content {
+	padding-top: 60px !important;
+  }
+*/
 .text{
     font-size:3vh;
     color: white;
