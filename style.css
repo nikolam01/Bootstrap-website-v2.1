@@ -262,7 +262,7 @@ footer{
 		margin-top: 30% !important;
 	
 	}
-	.btn-primary{
+	.bg-transparent{
 		font-size: 3.7vh !important;
 		width: 70%;
 		margin: 0% 15% !important;
@@ -308,7 +308,7 @@ footer{
 		margin-top: 30% !important;
 	
 	}
-	.btn-primary{
+	.bg-transparent{
 		font-size: 3.7vh !important;
 		width: 70%;
 		margin: 0% 15% !important;
@@ -372,7 +372,7 @@ footer{
 			font-size: 4vh !important;
 			padding-top: 4% !important;
 		}
-		.btn-primary{
+		.bg-transparent{
 			width: 80%;
 			margin: 0% 10% !important;
 			font-size: 3.5vh !important;
@@ -429,7 +429,7 @@ h2{
 	font-size: 4vh !important;
 	padding-top: 4% !important;
 }
-.btn-primary{
+.bg-transparent{
 	width: 80%;
 	margin: 0% 10% !important;
 	font-size: 3.5vh !important;
