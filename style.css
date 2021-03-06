@@ -88,8 +88,9 @@ footer{
 	text-align: center !important;
 	
 }
-.btn-primary{
+.bg-transparent{
     padding: 5px 5px !important;
+	color: white !important;
     font-size: 4vh !important;
     background-color: transparent !important;
     border: 4px solid white !important;
@@ -102,7 +103,7 @@ footer{
 	border-radius: 40%;
 
 }
-.btn-primary:hover{
+.bg-transparent:hover{
     background-color:  #780206 !important;
     transition: all 1ms ease-in !important;
 
